@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="add_food_item">Add Food Item</string>
+    <string name="search_item">Search Item</string>
+    <string name="order_item">Order Item</string>
+    <string name="edit_order_item">Edit Order Item</string>
+    <string name="item_review">Item Review</string>
+    <string name="report">Report</string>
+</resources>
